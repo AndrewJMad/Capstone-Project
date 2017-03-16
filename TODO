@@ -1,0 +1,34 @@
+FRONT END:
+  --Working login for...
+      -Users
+      -Administrators
+      - 1 Super Administrators  
+  --Input text box for Product ID number
+      -On button click move down to dynamically loaded section from tree table
+  --section dynamically loads from database 
+
+BACK END:
+  --Create Tables In MySQL
+    -Tree Table
+      -Tree ID
+      -Tree Species
+      -Tree Desc.
+      -Tree Age
+      -Tree City
+      -Tree State
+      -Tree Location
+    -User Table
+      -User Id
+      -User Role
+      -Username
+      -User Password
+      -User Email
+      -User Fname
+      -User Lname
+  --Adimn login Abilities
+    -Create, Upload and Delete
+      -Images, QR code, Tree info, Tree Location
+  --User Login Abilities
+    -Submit stories, comments, images.(pending approval by Admin)
+  
+    
